@@ -1,5 +1,5 @@
 # register-search-string
-This Project is written as part of coding assignment for interview.
+This Project is written as part of coding assignment
 
 Overview
  We'd like you to create a RESTful web service in Java. Please read the instruction below carefully. 
